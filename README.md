@@ -1,19 +1,19 @@
 # iOS Date Planner
 
-A SwiftUI event planning app designed to help users organize upcoming events, track reminders, and manage scheduling in a clean, intuitive interface.
+A SwiftUI event planning app designed to help users organize upcoming events, manage tasks, and keep track of deadlines in a clean, mobile-friendly interface.
 
 ## Overview
 
-This project showcases a structured SwiftUI application focused on calendar-style organization and event management. It was built as part of my iOS app development practice to strengthen my skills in SwiftUI layouts, state management, navigation, and user-centered design.
+This project was built as part of my iOS development portfolio to demonstrate practical SwiftUI app structure, state-driven UI updates, and clean productivity-focused design. The app allows users to create events, edit existing entries, and organize event-related tasks in a simple and intuitive workflow.
 
 ## Features
 
-- Create and manage event entries
-- View scheduled items in an organized interface
-- Edit event details
-- Reusable SwiftUI components
-- Clean and simple user experience
-- Structured app architecture for future expansion
+- Create new events
+- Edit existing events
+- Add and manage task lists within each event
+- Clean event overview grouped by time range
+- Simple, focused SwiftUI interface
+- Structured app flow for productivity and planning
 
 ## Built With
 
@@ -21,24 +21,41 @@ This project showcases a structured SwiftUI application focused on calendar-styl
 - SwiftUI
 - Xcode
 
+## Screenshots
+
+### Main Screen
+Shows the main event list organized by upcoming date ranges.
+
+![Main Screen](screenshots/main-screen.png)
+
+### New Event
+Allows the user to create a new event, assign a date and time, and add tasks.
+
+![New Event](screenshots/new-event.png)
+
+### Edit Event
+Lets the user update an existing event and manage its task list.
+
+![Edit Event](screenshots/edit-event.png)
+
 ## What This Project Demonstrates
 
-- SwiftUI view composition
-- State-driven interface updates
-- Clean file organization
-- Reusable components
-- iOS UI/UX fundamentals
-- App structure for practical productivity tools
+- SwiftUI layout design
+- State management
+- Form-based input handling
+- Task and event organization
+- Reusable view structure
+- Clean mobile productivity UI
 
-## Project Purpose
+## Why I Built It
 
-The goal of this app was to create a functional event-planning experience while reinforcing core SwiftUI concepts such as data flow, user interaction, and clean interface design.
+I wanted to create a practical iOS app that felt useful and realistic rather than purely decorative. This project helped me practice building a functional workflow-based app while strengthening my understanding of SwiftUI structure, data flow, and interface design.
 
 ## Status
 
-Completed as a portfolio iOS project and learning build.
+Completed as a portfolio iOS project.
 
 ## Author
 
-**Jessica Vargas**  
-Data Analytics Student | App Developer 
+**Jessica Vargas** 
+Data Analytics Student | App Developer
